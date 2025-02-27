@@ -18,5 +18,5 @@ Para a realização dessa atividade, será necessário alguns pré-requisitos:
     - [Ubuntu 22.04.5 LTS (Jammy Jellyfish)](https://releases.ubuntu.com/jammy/ubuntu-22.04.5-desktop-amd64.iso)
  
 <h2>  🦵 Passo a passo</h2>
-Vamos começar instalando o Samba na sua máquina virtual Ubuntu que ira atuar como nosso servidor
+Para iniciar, é necessário estar logado em um perfil de administrador em uma máquina virtual com o sistema operacional Ubuntu 22.04.5 que servirá como o servidor Samba. Com isso, certifique-se que as configurações da sua placa de rede esteja conforme apresentado abaixo:
 
