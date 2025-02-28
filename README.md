@@ -16,6 +16,10 @@ Para a realização dessa atividade, será necessário alguns pré-requisitos:
     - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - O Sistema Operacaional Linux Ubuntu
     - [Ubuntu 22.04.5 LTS (Jammy Jellyfish)](https://releases.ubuntu.com/jammy/ubuntu-22.04.5-desktop-amd64.iso)
+- 2 Notebooks (Windows 11 e Windows 10)
+- 1 Máquina Virtual (Ubuntu 22.04.5 )
+- 3 computadores (Windows 11)
+
  
 <h2>  🦵 Passo a passo</h2>
 Para iniciar, é necessário estar logado em um perfil de administrador em uma máquina virtual com o sistema operacional Ubuntu 22.04.5 que servirá como o servidor Samba e ter conexão com a internet via cabo de rede. Com isso, certifique-se que as configurações da sua placa de rede esteja conforme apresentado abaixo:
