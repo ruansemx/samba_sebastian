@@ -188,7 +188,7 @@ read list = @gads
 valid users = @gsi, @gprofessores
 
 [ads]
-path = //home/ads
+path = /home/ads
 read only = no
 read list = @gsi
 valid users = @gads, @gprofessores
