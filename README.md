@@ -1,8 +1,8 @@
 <h1 align="center">🕺 Samba Sebastian</h1>
-<h2 align="center">Configurções para criar um servidor SAMBA</h2>
+<h2 align="center">Configurações para criar um servidor SAMBA</h2>
 
 <p align="center">
-<b>Este Repositório Está Sendo Utilizado Somenete Para a Aplicação da Atividade Do Projeto Final da Cadeira de Segurança em Sietemas Operacionais e Redes de Computadores!</b>
+<b>Este Repositório Está Sendo Utilizado Somente Para a Aplicação da Atividade Do Projeto Final da Cadeira de Segurança em Sistemas Operacionais e Redes de Computadores!</b>
 </p>
 
 <h2> 👨‍💻 Objetivos Da Atividade</h2>
