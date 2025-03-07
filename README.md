@@ -96,9 +96,9 @@ Dê permissão total para os outros usuários e grupos para cada diretório cria
 Crie 3 usuários:
 
 ```bash
-/home#  useradd - m professor
-/home#  useradd - m aluno1
-/home#  useradd - m aluno2
+/home#  useradd -m professor
+/home#  useradd -m aluno1
+/home#  useradd -m aluno2
 ```
 
 Crie grupos para cada turma/função:
@@ -122,18 +122,18 @@ Adicione o usuário aluno1 ao grupo gsi,o usuário aluno2 ao grupo gads e o usu�
 Adicione os usuários criados anteriormente ao Samba
 
 ```bash
-/home#  smbpasswd - a professor
+/home#  smbpasswd -a professor
 *coloque uma senha para o usuário*
-/home#  smbpasswd - a user1
+/home#  smbpasswd -a aluno1
 *coloque uma senha para o usuário*
-/home#  smbpasswd - a user2
+/home#  smbpasswd -a aluno2
 *coloque uma senha para o usuário*
 ```
 
 Verifique os usuários adicionados ao Samba
 
 ```bash
-/home#  pdbedit -w - L
+/home#  pdbedit -w -L
 ```
 
 <h3>  🔐 Configuração de permissões</h3>
